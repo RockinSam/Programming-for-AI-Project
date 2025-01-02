@@ -1,2 +1,2 @@
 # Programming-for-AI-Project
-Final Project for Programming for Artificial Intelligence by Mohammed Sameer Ahmed (X23337257)
+Final Project for Programming for Artificial Intelligence by Group E from MSc Artificial Intelligence of National College of Ireland.
