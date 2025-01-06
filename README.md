@@ -20,7 +20,7 @@ Final Project for Programming for Artificial Intelligence by Group E from MSc Ar
 1. Recommended to open the repository folder (Programming-for-AI-Project) in Visual Studio Code.
 2. Create a new file `.env` in the repository folder.
 3. Copy the `MONGDB_URL` and `MONGODB_DBNAME` values given in the project report in the `.env` file and save.
-#### Running the `code_aretefact.ipynb`:
+#### Running the `code_aretefact.ipynb` file:
 1. Open the `code_artefact.ipynb` file in VS Code.
 2. Go to 'Select Kernel' > 'Python Environments' > '.venv'.
 3. Now click the 'Run All' button to run the file and see output.
