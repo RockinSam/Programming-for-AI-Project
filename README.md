@@ -16,7 +16,7 @@ Final Project for Programming for Artificial Intelligence by Group E from MSc Ar
 4. Run `.venv\scripts\activate` in the command prompt to activate the virtual environment.
 5. Run `pip install -r requirements.txt` in the command prompt to install all required libraries.
 6. Run the commands again if it is not working properly.
-#### Setting up `.env` file:
+#### Setting up environment variables in `.env` file:
 1. Recommended to open the repository folder (Programming-for-AI-Project) in Visual Studio Code.
 2. Create a new file `.env` in the repository folder.
 3. Copy the `MONGDB_URL` and `MONGODB_DBNAME` values given in the project report in the `.env` file and save.
